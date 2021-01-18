@@ -1,2 +1,2 @@
-# The-Battle-of-Neighborhoods-Capstone-Priject
+# The-Battle-of-Neighborhoods-Capstone-Project
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods 
